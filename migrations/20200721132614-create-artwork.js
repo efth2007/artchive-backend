@@ -21,7 +21,7 @@ module.exports = {
       imageUrl: {
         type: Sequelize.STRING,
       },
-      artist_id: {
+      artistId: {
         type: Sequelize.INTEGER,
         references: { model: "artists", key: "id" },
         onUpdate: "CASCADE",

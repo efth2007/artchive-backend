@@ -10,14 +10,13 @@ module.exports = (sequelize, DataTypes) => {
     static associate(models) {
       tag.belongsToMany(models.artist, {
         through: "artistTags",
-        foreignKey: "tag_id",
+        foreignKey: "tagId",
       });
     }
   }
   tag.init(
     {
-      tagName: DataTypes.STRING,
-      allowNull: false,
+      tagName: { type: DataTypes.STRING, allowNull: false },
     },
     {
       sequelize,

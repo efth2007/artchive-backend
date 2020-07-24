@@ -17,7 +17,7 @@ module.exports = (sequelize, DataTypes) => {
       medium: DataTypes.STRING,
       description: DataTypes.TEXT,
       imageUrl: DataTypes.STRING,
-      artist_id: {
+      artistId: {
         type: DataTypes.INTEGER,
         references: { model: "artists", key: "id" },
         onUpdate: "CASCADE",

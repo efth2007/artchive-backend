@@ -11,11 +11,11 @@ module.exports = (sequelize, DataTypes) => {
       artist.hasMany(models.artwork);
       artist.belongsToMany(models.tag, {
         through: "artistTags",
-        foreignKey: "artist_id",
+        foreignKey: "artistId",
       });
       artist.belongsToMany(models.user, {
         through: "userArtists",
-        foreignKey: "artist_id",
+        foreignKey: "artistId",
       });
     }
   }

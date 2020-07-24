@@ -9,8 +9,8 @@ module.exports = (sequelize, DataTypes) => {
   }
   artistTag.init(
     {
-      artist_id: DataTypes.INTEGER,
-      tag_id: DataTypes.INTEGER,
+      artistId: DataTypes.INTEGER,
+      tagId: DataTypes.INTEGER,
     },
     {
       sequelize,

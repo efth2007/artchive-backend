@@ -8,7 +8,7 @@ module.exports = {
         primaryKey: true,
         type: Sequelize.INTEGER,
       },
-      artist_id: {
+      artistId: {
         type: Sequelize.INTEGER,
         references: {
           model: "artists",
@@ -17,7 +17,7 @@ module.exports = {
         onUpdate: "CASCADE",
         onDelete: "CASCADE",
       },
-      tag_id: {
+      tagId: {
         type: Sequelize.INTEGER,
         references: {
           model: "tags",

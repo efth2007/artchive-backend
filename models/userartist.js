@@ -9,8 +9,8 @@ module.exports = (sequelize, DataTypes) => {
   }
   userArtist.init(
     {
-      user_id: DataTypes.INTEGER,
-      artist_id: DataTypes.INTEGER,
+      userId: DataTypes.INTEGER,
+      artistId: DataTypes.INTEGER,
     },
     {
       sequelize,

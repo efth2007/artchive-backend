@@ -35,6 +35,7 @@ router.post("/login", async (req, res, next) => {
 
 router.post("/signup", async (req, res) => {
   const { email, password, name } = req.body;
+  console.log("values:", email);
   if (!email || !password || !name) {
     return res.status(400).send("Please provide an email, password and a name");
   }
@@ -42,8 +43,8 @@ router.post("/signup", async (req, res) => {
   try {
     const newUser = await User.create({
       email,
-      password: bcrypt.hashSync(password, SALT_ROUNDS),
-      name,
+      password: bcrypt.hashSync(password, 10),
+      userName: name,
     });
 
     delete newUser.dataValues["password"]; // don't send back the password hash
@@ -52,13 +53,14 @@ router.post("/signup", async (req, res) => {
 
     res.status(201).json({ token, ...newUser.dataValues });
   } catch (error) {
+    console.log(error.message);
     if (error.name === "SequelizeUniqueConstraintError") {
       return res
         .status(400)
         .send({ message: "There is an existing account with this email" });
     }
 
-    return res.status(400).send({ message: "Something went wrong, sorry" });
+    return res.status(400).send({ message: "Something went wrong, sorry!" });
   }
 });
 
