@@ -15,11 +15,14 @@ module.exports = {
       medium: {
         type: Sequelize.STRING,
       },
+      date: {
+        type: Sequelize.INTEGER,
+      },
       description: {
         type: Sequelize.TEXT,
       },
       imageUrl: {
-        type: Sequelize.STRING,
+        type: Sequelize.TEXT,
       },
       artistId: {
         type: Sequelize.INTEGER,

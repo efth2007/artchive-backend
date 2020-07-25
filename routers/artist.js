@@ -29,7 +29,7 @@ router.get("/:id", async (req, res) => {
   }
 
   const artist = await Artist.findByPk(id, {
-    include: [{ model: Tag }],
+    include: [{ model: Tag }, { model: Artwork }],
   }); //, {
   //  include: [Artwork]
   //  });
