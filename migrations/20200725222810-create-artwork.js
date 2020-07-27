@@ -30,6 +30,14 @@ module.exports = {
         onUpdate: "CASCADE",
         onDelete: "SET NULL",
       },
+
+      locationId: {
+        type: Sequelize.INTEGER,
+        references: { model: "locations", key: "id" },
+        onUpdate: "CASCADE",
+        onDelete: "SET NULL",
+      },
+
       createdAt: {
         allowNull: false,
         type: Sequelize.DATE,

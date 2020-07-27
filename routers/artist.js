@@ -2,6 +2,7 @@ const { Router } = require("express");
 const Artist = require("../models").artist;
 const Tag = require("../models").tag;
 const Artwork = require("../models").artwork;
+const Location = require("../models").location;
 
 //instantiate:
 const router = new Router();
@@ -12,7 +13,7 @@ router.get("/", async (req, res, next) => {
   try {
     const limit = req.query.limit || 10;
     const offset = req.query.offset || 0;
-    const allArtists = await Artist.findAll({ limit, offset });
+    const allArtists = await Artist.findAll(); //.findAll({ limit, offset }); //;
     res.json({ allArtists });
   } catch (e) {
     next(e);
@@ -29,7 +30,10 @@ router.get("/:id", async (req, res) => {
   }
 
   const artist = await Artist.findByPk(id, {
-    include: [{ model: Tag }, { model: Artwork }],
+    include: [
+      { model: Tag },
+      { model: Artwork, include: [{ model: Location }] },
+    ],
   }); //, {
   //  include: [Artwork]
   //  });

@@ -9,6 +9,7 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       artwork.belongsTo(models.artist);
+      artwork.belongsTo(models.location);
     }
   }
   artwork.init(
@@ -21,6 +22,12 @@ module.exports = (sequelize, DataTypes) => {
       artistId: {
         type: DataTypes.INTEGER,
         references: { model: "artists", key: "id" },
+        onUpdate: "CASCADE",
+        onDelete: "SET NULL",
+      },
+      locationId: {
+        type: DataTypes.INTEGER,
+        references: { model: "locations", key: "id" },
         onUpdate: "CASCADE",
         onDelete: "SET NULL",
       },
