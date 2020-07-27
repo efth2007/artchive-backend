@@ -6,6 +6,7 @@ const authRouter = require("./routers/auth");
 const artistRouter = require("./routers/artist");
 const artworkRouter = require("./routers/artwork");
 const userRouter = require("./routers/user");
+const locationRouter = require("./routers/location");
 
 const cors = require("cors");
 app.use(cors());
@@ -19,3 +20,4 @@ app.use("/", authRouter);
 app.use("/artists", artistRouter);
 app.use("/artworks", artworkRouter);
 app.use("/users", userRouter);
+app.use("/locations", locationRouter);
