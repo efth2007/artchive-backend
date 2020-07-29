@@ -11,11 +11,11 @@ module.exports = {
           medium: "Marble",
           description:
             "This famous work of art depicts the body of Jesus on the lap of his mother Mary after the Crucifixion. The theme is of Northern origin. Michelangelo's interpretation of the Pietà is unprecedented in Italian sculpture. It is an important work as it balances the Renaissance ideals of classical beauty with naturalism.",
-          date: null,
+          date: 1498,
           imageUrl:
             "https://upload.wikimedia.org/wikipedia/commons/6/6c/Michelangelo%27s_Pieta_5450_cut_out_black.jpg",
           artistId: 9,
-          locationId: 3,
+          locationId: null,
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -24,28 +24,28 @@ module.exports = {
           medium: "Marble",
           description:
             "David is a 5.17-metre (17.0 ft) marble statue of the Biblical figure David, a favoured subject in the art of Florence. Because of the nature of the figure it represented, the statue soon came to symbolize the defence of civil liberties embodied in the Republic of Florence, an independent city-state threatened on all sides by more powerful rival states and by the hegemony of the Medici family.",
-          date: null,
+          date: 1501,
           imageUrl:
             "https://upload.wikimedia.org/wikipedia/commons/a/a0/%27David%27_by_Michelangelo_Fir_JBU002.jpg",
           artistId: 9,
-          locationId: 3,
+          locationId: null,
           createdAt: new Date(),
           updatedAt: new Date(),
         },
 
-        // {
-        //   title: "Christ in the House of Martha and Mary",
-        //   date: 1655,
-        //   medium: "Oil on canvas",
-        //   description:
-        //     "This is the largest painting by Vermeer and one of the very few with an overt religious motive. The story of Christ visiting the household of the two sisters Mary and Martha goes back to the New Testament. The work has also been called Christ in the House of Mary and Martha (reversing the last two names).",
-        //   imageUrl:
-        //     "https://upload.wikimedia.org/wikipedia/commons/4/4f/Johannes_%28Jan%29_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project.jpg",
-        //   artistId: 36,
-        //   locationId: 3,
-        //   createdAt: new Date(),
-        //   updatedAt: new Date(),
-        // },
+        {
+          title: "Christ in the House of Martha and Mary",
+          date: 1655,
+          medium: "Oil on canvas",
+          description:
+            "This is the largest painting by Vermeer and one of the very few with an overt religious motive. The story of Christ visiting the household of the two sisters Mary and Martha goes back to the New Testament. The work has also been called Christ in the House of Mary and Martha (reversing the last two names).",
+          imageUrl:
+            "https://upload.wikimedia.org/wikipedia/commons/4/4f/Johannes_%28Jan%29_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project.jpg",
+          artistId: 36,
+          locationId: null,
+          createdAt: new Date(),
+          updatedAt: new Date(),
+        },
         {
           title: "Diana and Her Companions",
           date: 1655,
@@ -72,18 +72,18 @@ module.exports = {
           createdAt: new Date(),
           updatedAt: new Date(),
         },
-        // {
-        //   title: "Officer and Laughing Girl",
-        //   date: 1657,
-        //   medium: "Oil on canvas",
-        //   description: "",
-        //   imageUrl:
-        //     "https://upload.wikimedia.org/wikipedia/commons/2/2e/Johannes_Vermeer_-_De_Soldaat_en_het_Lachende_Meisje_-_Google_Art_Project.jpg",
-        //   artistId: 36,
-        //   locationId: 3,
-        //   createdAt: new Date(),
-        //   updatedAt: new Date(),
-        // },
+        {
+          title: "Officer and Laughing Girl",
+          date: 1657,
+          medium: "Oil on canvas",
+          description: "",
+          imageUrl:
+            "https://upload.wikimedia.org/wikipedia/commons/2/2e/Johannes_Vermeer_-_De_Soldaat_en_het_Lachende_Meisje_-_Google_Art_Project.jpg",
+          artistId: 36,
+          locationId: null,
+          createdAt: new Date(),
+          updatedAt: new Date(),
+        },
         {
           title: "The Milkmaid",
           date: 1657,
@@ -193,8 +193,8 @@ module.exports = {
             "This oil-on-wood portrait was acquired by the National Gallery of Art in Washington, D.C. in 1967. The sum of US$5 million—an absolute record price at the time—came from the Ailsa Mellon Bruce Fund and was paid to the Princely Family of Liechtenstein. It is the only painting by Leonardo on public view in the Americas.",
           imageUrl:
             "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Leonardo_da_Vinci_-_Ginevra_de%27_Benci_-_Google_Art_Project.jpg/453px-Leonardo_da_Vinci_-_Ginevra_de%27_Benci_-_Google_Art_Project.jpg",
-          artistId: 9,
-          locationId: 3,
+          artistId: 8,
+          locationId: 9,
           createdAt: new Date(),
           updatedAt: new Date(),
         },

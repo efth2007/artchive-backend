@@ -34,15 +34,48 @@ router.get("/:id", async (req, res) => {
       { model: Tag },
       { model: Artwork, include: [{ model: Location }] },
     ],
-  }); //, {
-  //  include: [Artwork]
-  //  });
+  });
 
   if (artist === null) {
     return res.status(404).send({ message: "Artist not found" });
   }
 
   res.status(200).send({ message: "ok", artist });
+});
+
+//Add a new artist:
+router.post("/create_new", async (req, res, next) => {
+  const {
+    firstName,
+    lastName,
+    knownAs,
+    bornOn,
+    diedOn,
+    placeOfBirth,
+    placeOfDeath,
+    nationality,
+    wikiUrl,
+    gender,
+  } = req.body;
+  try {
+    const newArtist = await Artist.create({
+      firstName,
+      lastName,
+      knownAs,
+      bornOn,
+      diedOn,
+      placeOfBirth,
+      placeOfDeath,
+      nationality,
+      wikiUrl,
+      gender,
+    });
+    res.status(201).json({
+      newArtist,
+    });
+  } catch (e) {
+    next(e);
+  }
 });
 
 module.exports = router;

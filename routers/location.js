@@ -1,6 +1,7 @@
 const { Router } = require("express");
 const Artwork = require("../models").artwork;
 const Location = require("../models").location;
+const Artist = require("../models/").artist;
 
 //instantiate:
 const router = new Router();
@@ -28,10 +29,8 @@ router.get("/:id", async (req, res) => {
   }
 
   const location = await Location.findByPk(id, {
-    include: [{ model: Artwork }],
-  }); //, {
-  //  include: [Artwork]
-  //  });
+    include: [{ model: Artwork, include: [{ model: Artist }] }],
+  });
 
   if (location === null) {
     return res.status(404).send({ message: "Location not found" });
