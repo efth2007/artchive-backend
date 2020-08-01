@@ -47,6 +47,12 @@ module.exports = {
       wikiUrl: {
         type: Sequelize.STRING,
       },
+      imageUrl: {
+        type: Sequelize.STRING,
+      },
+      bio: {
+        type: Sequelize.TEXT,
+      },
       createdAt: {
         allowNull: false,
         type: Sequelize.DATE,

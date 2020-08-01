@@ -3,6 +3,7 @@ const Artist = require("../models").artist;
 const Tag = require("../models").tag;
 const Artwork = require("../models").artwork;
 const Location = require("../models").location;
+const UserArtist = require("../models").userArtist;
 
 //instantiate:
 const router = new Router();
@@ -73,6 +74,64 @@ router.post("/create_new", async (req, res, next) => {
     res.status(201).json({
       newArtist,
     });
+  } catch (e) {
+    next(e);
+  }
+});
+
+//Add an artist to favorites:
+router.post("/add_to_favorites", async (req, res, next) => {
+  const userId = parseInt(req.body.userId);
+  const artistId = parseInt(req.body.artistId);
+
+  try {
+    const newFavorite = await UserArtist.create({
+      userId,
+      artistId,
+    });
+
+    const favedArtist = await Artist.findByPk(artistId);
+
+    res.status(201).json({
+      favedArtist,
+    });
+    // console.log("the userId to add:", userId);
+    //  console.log("the artistId to add:", artistId);
+  } catch (e) {
+    next(e);
+  }
+});
+
+router.delete("/remove_from_favorites/:uId/:aId", async (req, res, next) => {
+  // const userId = parseInt(req.body.userId);
+  // const artistIdA = req.body.artistId;
+
+  const userId = parseInt(req.params.uId);
+  const artistId = parseInt(req.params.aId);
+
+  try {
+    const faveToDelete = await UserArtist.findOne({
+      where: { userId, artistId },
+    });
+    // console.log("HEEEYYYYYY IM DELETINGGG");
+    // if (!faveToDelete) {
+    //    return res.status(404).send("Fave not found");
+    //   }
+    //  console.log("Found the fave, i'm gonna delete it now");
+    const result = await faveToDelete.destroy();
+
+    const artistRemoved = await Artist.findByPk(artistId);
+
+    console.log("Favorite deleted", result);
+
+    res.status(201).json({
+      artistRemoved,
+    });
+
+    // send back the deleted artistId.
+
+    console.log("the userId to remove:", userId);
+    console.log("the artistId to remove:", artistIdA);
   } catch (e) {
     next(e);
   }

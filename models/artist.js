@@ -34,6 +34,8 @@ module.exports = (sequelize, DataTypes) => {
       painter: DataTypes.BOOLEAN,
       sculptor: DataTypes.BOOLEAN,
       wikiUrl: DataTypes.STRING,
+      imageUrl: DataTypes.STRING,
+      bio: DataTypes.TEXT,
     },
     {
       sequelize,

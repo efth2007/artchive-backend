@@ -3,6 +3,7 @@ const { Router } = require("express");
 const { toJWT } = require("../auth/jwt");
 const authMiddleware = require("../auth/middleware");
 const User = require("../models/").user;
+const Artist = require("../models").artist;
 
 const router = new Router();
 
@@ -16,7 +17,15 @@ router.post("/login", async (req, res, next) => {
         .send({ message: "Please provide both email and password" });
     }
 
-    const user = await User.findOne({ where: { email } });
+    const user = await User.findOne({
+      where: { email },
+      include: { model: Artist },
+    });
+
+    // .findAll({
+    //   where: { important: true },
+    //   include: [{ model: todoList, attributes: ["name"] }],
+    // });
 
     if (!user || !bcrypt.compareSync(password, user.password)) {
       return res.status(400).send({
@@ -68,9 +77,34 @@ router.post("/signup", async (req, res) => {
 // - get the users email & name using only their token
 // - checking if a token is (still) valid
 router.get("/me", authMiddleware, async (req, res) => {
+  //  const favArtists = await Artist.findAll({
+  //   where: { userId: req.user.id },
+  //  });
+  //
+  //
+
+  // const bla = await User.findOne({
+  //   where: { userId: req.user.id },
+  //   include: { model: Artist },
+  // });
+
+  //const bla = { bob: "1500", blub: "30" };
+  const userWithFaves = await User.findByPk(req.user.id, {
+    include: [{ model: Artist }],
+  });
+
+  const artists = userWithFaves.artists;
+  //******************** */
+  // await Artist.findByPk(id, {
+  //   include: [
+  //     { model: Tag },
+  //     { model: Artwork, include: [{ model: Location }] },
+  //   ],
+  // });
+
   // don't send back the password hash
   delete req.user.dataValues["password"];
-  res.status(200).send({ ...req.user.dataValues });
+  res.status(200).send({ ...req.user.dataValues, artists });
 });
 
 module.exports = router;
