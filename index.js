@@ -13,7 +13,9 @@ app.use(cors());
 
 app.use(express.json());
 
-app.listen(PORT, () => console.log(`Listening on port ${PORT}!`));
+app.listen(process.env.PORT || 4000, () =>
+  console.log(`Listening on port ${PORT}!`)
+);
 app.get("/", (req, res) => res.send("Hello!!"));
 
 app.use("/", authRouter);
