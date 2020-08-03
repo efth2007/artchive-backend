@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const PORT = 4000;
+const PORT = process.env.PORT || 4000;
 
 const authRouter = require("./routers/auth");
 const artistRouter = require("./routers/artist");
@@ -13,7 +13,10 @@ app.use(cors());
 
 app.use(express.json());
 
-app.listen(4000, () => console.log(`Listening on port ${PORT}!`));
+app.set("port", PORT);
+// app.listen(process.env.PORT || 4000, () =>
+//   console.log(`Listening on port ${PORT}!`)
+// );
 app.get("/", (req, res) => res.send("Hello!!"));
 
 app.use("/", authRouter);
