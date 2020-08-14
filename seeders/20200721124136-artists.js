@@ -1822,7 +1822,8 @@ module.exports = {
           sculptor: true,
           wikiUrl:
             "https://en.wikipedia.org/wiki/Constantin_Br%C3%A2ncu%C8%99i",
-          imageUrl: "",
+          imageUrl:
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edward_Steichen_-_Brancusi.jpg/580px-Edward_Steichen_-_Brancusi.jpg",
           bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
