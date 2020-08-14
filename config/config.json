@@ -12,8 +12,6 @@
     "dialect": "mysql"
   },
   "production": {
-    "url": "postgres://mgwlbqhk:JsxRGzQEYTKBYV7Kciwua3HTe_7G2s7M@ruby.db.elephantsql.com:5432/mgwlbqhk",
-    "dialect": "postgres",
-    "operatorsAliases": "0"
+    "use_env_variable": "DATABASE_URL"
   }
 }

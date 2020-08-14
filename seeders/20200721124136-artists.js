@@ -19,10 +19,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Masaccio",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -40,10 +38,8 @@ module.exports = {
           painter: false,
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Donatello",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -61,10 +57,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Jan_van_Eyck",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -82,10 +76,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Rogier_van_der_Weyden",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -103,10 +95,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Dieric_Bouts",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -124,10 +114,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Sandro_Botticelli",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -145,10 +133,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Hugo_van_der_Goes",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -168,8 +154,7 @@ module.exports = {
           wikiUrl: "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
           imageUrl:
             "https://images-na.ssl-images-amazon.com/images/I/71t8tOnINfL._AC_SY679_.jpg",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -188,9 +173,8 @@ module.exports = {
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Michelangelo",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Miguel_%C3%81ngel%2C_por_Daniele_da_Volterra_%28detalle%29.jpg/415px-Miguel_%C3%81ngel%2C_por_Daniele_da_Volterra_%28detalle%29.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -209,9 +193,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Raphael",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Raffaello_Sanzio.jpg/352px-Raffaello_Sanzio.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -230,9 +213,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Giovanni_Bellini",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://d32dm0rphc51dk.cloudfront.net/mOH2QwnxDu6LG_FJHPMIrQ/large.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -251,9 +233,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Giorgione",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Giorgione_059.jpg/594px-Giorgione_059.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -272,9 +253,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Titian",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Self-portrait_of_Titian.jpg/361px-Self-portrait_of_Titian.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -293,9 +273,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Paolo_Veronese",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Paolo_Veronese%2C_avtoportret.jpg/382px-Paolo_Veronese%2C_avtoportret.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -314,9 +293,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/D%C3%BCrer_-_Selbstbildnis_im_Pelzrock_-_Alte_Pinakothek.jpg/341px-D%C3%BCrer_-_Selbstbildnis_im_Pelzrock_-_Alte_Pinakothek.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -335,9 +313,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Hieronymus_Bosch",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jheronimus_Bosch_%28cropped%29.jpg/412px-Jheronimus_Bosch_%28cropped%29.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -356,9 +333,8 @@ module.exports = {
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Benvenuto_Cellini",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Portrait_of_a_bearded_man._Cellini%2C_Benvenuto.png/303px-Portrait_of_a_bearded_man._Cellini%2C_Benvenuto.png",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -377,9 +353,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Parmigianino",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Parmigianino_Selfportrait.jpg/481px-Parmigianino_Selfportrait.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -398,9 +373,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Tintoretto",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Jacopo_Tintoretto_031-2.jpg/384px-Jacopo_Tintoretto_031-2.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -419,9 +393,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/El_Greco",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg/433px-El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -440,9 +413,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hans_Holbein_the_Younger%2C_self-portrait.jpg/351px-Hans_Holbein_the_Younger%2C_self-portrait.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -461,9 +433,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Pieter_Bruegel_the_Elder",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://uploads7.wikiart.org/images/pieter-bruegel-the-elder.jpg!Portrait.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -482,9 +453,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Caravaggio",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bild-Ottavio_Leoni%2C_Caravaggio.jpg/361px-Bild-Ottavio_Leoni%2C_Caravaggio.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -504,9 +474,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Artemisia_Gentileschi",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg/360px-Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -525,9 +494,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Francisco_de_Zurbar%C3%A1n",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Francisco_de_Zurbar%C3%A1n_autoportrait.jpg/393px-Francisco_de_Zurbar%C3%A1n_autoportrait.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -546,9 +514,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Jusepe_de_Ribera",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://uploads8.wikiart.org/temp/52baa6e5-9938-4006-9ce9-306efc9c1ff8.jpg!Portrait.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -568,9 +535,8 @@ module.exports = {
           wikiUrl:
             "https://en.wikipedia.org/wiki/Bartolom%C3%A9_Esteban_Murillo",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Autorretrato_de_Murillo.jpg/434px-Autorretrato_de_Murillo.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -589,9 +555,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Guido_Reni",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Guido_Reni_-_Self-portrait_2.jpg/389px-Guido_Reni_-_Self-portrait_2.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -609,10 +574,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Nicolas_Poussin",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "http://cdn2.all-art.org/baroque/images/poussin/63.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -631,9 +594,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Claude_Lorrain",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://uploads6.wikiart.org/images/claude-lorrain.jpg!Portrait.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -651,10 +613,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Peter_Paul_Rubens",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -672,10 +632,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Anthony_van_Dyck",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -693,10 +651,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -715,9 +671,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Frans_Hals",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Hals_-_Self-Portrait_copy.jpg/413px-Hals_-_Self-Portrait_copy.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -736,9 +691,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Rembrandt",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rembrandt_Self-portrait_%28Kenwood%29.jpg/398px-Rembrandt_Self-portrait_%28Kenwood%29.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -777,10 +731,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Canaletto",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -798,10 +750,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/William_Hogarth",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -819,10 +769,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Joshua_Reynolds",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -840,10 +788,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Thomas_Gainsborough",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -861,10 +807,8 @@ module.exports = {
           painter: true,
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Antonio_Canova",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -882,17 +826,15 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Jean-Honor%C3%A9_Fragonard",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
         {
-          firstName: "Maria Anna Angelika Kauffmann",
+          firstName: "Maria Anna Angelika",
           lastName: "Kauffmann",
-          knownAs: null,
+          knownAs: "Angelica Kauffman",
           bornOn: 1741,
           diedOn: 1807,
           gender: "female",
@@ -904,9 +846,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Angelica_Kauffman",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Angelica_Kauffmann_by_Angelica_Kauffmann.jpg/398px-Angelica_Kauffmann_by_Angelica_Kauffmann.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -924,10 +865,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Jacques-Louis_David",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -946,9 +885,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Francisco_Goya",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Autorretrato_Goya_1815.jpg/357px-Autorretrato_Goya_1815.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -967,9 +905,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/William_Blake",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://collectionimages.npg.org.uk/large/mw00609/William-Blake.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -987,10 +924,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/J._M._W._Turner",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1008,10 +943,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/John_Constable",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1029,10 +962,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Caspar_David_Friedrich",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1051,10 +982,8 @@ module.exports = {
           sculptor: false,
           wikiUrl:
             "https://en.wikipedia.org/wiki/Jean-Auguste-Dominique_Ingres",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1072,10 +1001,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1093,10 +1020,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Th%C3%A9odore_G%C3%A9ricault",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1115,9 +1040,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/F%C3%A9lix_Nadar_1820-1910_portraits_Eug%C3%A8ne_Delacroix_restored.jpg/349px-F%C3%A9lix_Nadar_1820-1910_portraits_Eug%C3%A8ne_Delacroix_restored.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1135,10 +1059,8 @@ module.exports = {
           painter: true,
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Honor%C3%A9_Daumier",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1156,10 +1078,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Jean-Baptiste-Camille_Corot",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1177,10 +1097,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Millet",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1199,9 +1117,8 @@ module.exports = {
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Gustave_Courbet",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://d7hftxdivxxvm.cloudfront.net/?resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2Fw96OnhVmTGLkwF447ILLHg%252F1251px-Gustave_Courbet_-_Le_De%25CC%2581sespe%25CC%2581re%25CC%2581.JPG&width=600&quality=80",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1220,9 +1137,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Rosa_Bonheur",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://uploads4.wikiart.org/images/rosa-bonheur.jpg!Portrait.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1241,9 +1157,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/William-Adolphe_Bouguereau",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://uploads0.wikiart.org/images/william-adolphe-bouguereau.jpg!Portrait.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1261,10 +1176,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Gustave_Dor%C3%A9",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1282,10 +1195,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Henri_Fantin-Latour",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1304,10 +1215,8 @@ module.exports = {
           sculptor: true,
           wikiUrl:
             "https://en.wikipedia.org/wiki/Jean-L%C3%A9on_G%C3%A9r%C3%B4me",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1325,10 +1234,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Dante_Gabriel_Rossetti",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1346,10 +1253,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/John_Everett_Millais",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1367,10 +1272,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Odilon_Redon",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1388,10 +1291,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Gustav_Klimt",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "https://www.gustav-klimt.com/images/klimt.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1409,10 +1310,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Egon_Schiele",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1431,9 +1330,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/%C3%89douard_Manet",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/%C3%89douard_Manet-crop.jpg/343px-%C3%89douard_Manet-crop.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1452,9 +1350,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Claude_Monet",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Claude_Monet_1899_Nadar_crop.jpg/220px-Claude_Monet_1899_Nadar_crop.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1472,10 +1369,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1493,10 +1388,8 @@ module.exports = {
           painter: true,
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Edgar_Degas",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1514,10 +1407,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Auguste_Rodin",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1536,10 +1427,8 @@ module.exports = {
           sculptor: false,
           wikiUrl:
             "https://en.wikipedia.org/wiki/James_Abbott_McNeill_Whistler",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1558,9 +1447,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://impress.wag.ca/uploads/ck/images/impressionists/Paul_Cezanne_b_500px.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1578,10 +1466,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Georges_Seurat",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1600,9 +1486,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Vincent_van_Gogh",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://external-preview.redd.it/qXWbWLRjCmmy8y_i4zTEHf8hHcaNTBiRXRspIwWghSI.jpg?auto=webp&s=ee8d2f2519bf6f0683461c55007afa3b4a9f9b8f",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1620,10 +1505,8 @@ module.exports = {
           painter: true,
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Paul_Gauguin",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "https://www.gauguin.org/images/gauguin.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1641,10 +1524,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Edvard_Munch",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1663,16 +1544,15 @@ module.exports = {
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/9/9e/K%C3%A4the_Kollwitz_by_Hugo_Erfurth%2C_1927.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
         {
           firstName: "Wassily",
           lastName: "Wassilyevich Kandinsky",
-          knownAs: null,
+          knownAs: "Wassily Kandinsky",
           bornOn: 1866,
           diedOn: 1944,
           gender: "male",
@@ -1684,9 +1564,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Wassily_Kandinsky",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://singulart-website-prod.s3.eu-central-1.amazonaws.com/famous/artists/cropped/famous_artist_59_2e0c70c2adeb1ee55e2814445d876830.jpeg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1705,9 +1584,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Henri_Rousseau",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/f/fc/Rousseau_Joyeux_Farceurs_Dornac_crop.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1726,9 +1604,8 @@ module.exports = {
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Henri_Matisse",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/b/b1/Portrait_of_Henri_Matisse_1933_May_20.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1746,10 +1623,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/James_Ensor",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1769,9 +1644,8 @@ module.exports = {
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Ch%C3%A2teau_of_Vauvenargues",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/653px-Pablo_picasso_1.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1790,10 +1664,8 @@ module.exports = {
           painter: true,
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Georges_Braque",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "https://www.georgesbraque.net/Georges%20Braque.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1812,9 +1684,8 @@ module.exports = {
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Umberto_Boccioni",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/b/ba/Umberto_Boccioni%2C_portrait_photograph.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1833,9 +1704,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Franti%C5%A1ek_Kupka",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Frantisek_Kupka_1928.jpg/467px-Frantisek_Kupka_1928.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1853,10 +1723,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Robert_Delaunay",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1874,10 +1742,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Kazimir_Malevich",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1896,9 +1762,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "Schosshalden cemetery, Bern",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Paul_Klee_1911.jpg/347px-Paul_Klee_1911.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1917,9 +1782,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Ernst_Ludwig_Kirchner",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://artlogic-res.cloudinary.com/c_limit,f_auto,fl_lossy/ws-pelham/usr/library/main/images/kirchner.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1938,9 +1802,8 @@ module.exports = {
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Marcel_Duchamp",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/e/e2/Marcel_Duchamp_01.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1959,10 +1822,8 @@ module.exports = {
           sculptor: true,
           wikiUrl:
             "https://en.wikipedia.org/wiki/Constantin_Br%C3%A2ncu%C8%99i",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -1981,9 +1842,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Piet_Mondrian",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://236izu11yygk2uo6po3yerii7d6-wpengine.netdna-ssl.com/wp-content/uploads/2017/07/Piet_Mondrian_2-350x350.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2002,9 +1862,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Francis_Picabia",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://lh3.googleusercontent.com/proxy/slWtO8kBzmXiY0PdsSqR-1H64F9qmeapSCtccRe9arBcn3XbrUZqd_W94VAJinquGT7Nwhv5De-nQRYJdS1DnbGdEkNuHSyIb5llENlpYnF4EVP8woxsTBI",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2023,9 +1882,8 @@ module.exports = {
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Max_Ernst",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://www.wienerzeitung.at/_em_daten/_cache/image/1x2km9EiulDsS_7BprPyUUJkwsPpLVKJejMkwvi_iYkW0bE98AFJM9CqwPmGpqOAD5Aj2k8Uo1_QkA_DQsFsACBiQGhSKvDP4ZY1k2kdJ81kU/160401-1205-948-0900-25206-0204eernst.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2044,9 +1902,8 @@ module.exports = {
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Jean_Arp",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://cdn.shopify.com/s/files/1/1079/6284/files/Jean_Arp_portrait_large.jpg?v=1505584704",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2064,10 +1921,8 @@ module.exports = {
           painter: true,
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Joan_Mir%C3%B3",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2086,9 +1941,8 @@ module.exports = {
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Alexander_Calder",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://uploads3.wikiart.org/00207/images/alexander-calder/1-be288c121dfe8dc4489b58e4256b3fba.jpg!Portrait.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2107,9 +1961,8 @@ module.exports = {
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Barbara_Hepworth",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://collectionimages.npg.org.uk/large/mw113039/Barbara-Hepworth.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2127,10 +1980,8 @@ module.exports = {
           painter: true,
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Marc_Chagall",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2148,10 +1999,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Edward_Hopper",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2169,10 +2018,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Grant_Wood",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2190,10 +2037,8 @@ module.exports = {
           painter: true,
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Giorgio_de_Chirico",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2212,9 +2057,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://www.moma.org/d/assets/W1siZiIsIjIwMTgvMDEvMjMvOHg0dXM3dm16dl9BUkNIXzc4MTZfRnVsbF9KUEVHX2Nyb3BfbmV3LmpwZyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0/ARCH_7816-Full_JPEG-crop%20new.jpg?sha=6db672aa000e6b4a",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2232,10 +2076,8 @@ module.exports = {
           painter: true,
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2254,10 +2096,8 @@ module.exports = {
           painter: true,
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Dorothea_Tanning",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2275,10 +2115,8 @@ module.exports = {
           painter: true,
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Diego_Rivera",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2298,9 +2136,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Frida_Kahlo",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg/320px-Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2318,10 +2155,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Georgia_O%27Keeffe",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2339,10 +2174,8 @@ module.exports = {
           painter: true,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Mark_Rothko",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "https://contemporary.co.il/art/damien-hirst.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2361,9 +2194,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Jackson_Pollock",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://1.bp.blogspot.com/-xXuw8AROBB4/UuEC6Ca70PI/AAAAAAAACS8/QYHoVv6KeXY/s1600/artist-Jackson-Pollock-3.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2381,10 +2213,8 @@ module.exports = {
           painter: true,
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Willem_de_Kooning",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2403,9 +2233,8 @@ module.exports = {
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Yves_Klein",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://anniversaire-celebrite.com/upload/250x333/yves-klein-250.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2424,9 +2253,8 @@ module.exports = {
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Joseph_Beuys",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://www.tate.org.uk/sites/default/files/styles/width-420/public/images/beu_contact3_lg.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2443,11 +2271,10 @@ module.exports = {
           burialSite: "Cremated, Ashes given to family or friend",
           painter: true,
           sculptor: false,
-          wikiUrl: "",
+          wikiUrl: "https://en.wikipedia.org/wiki/Francis_Bacon_(artist)",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://bookstore.antrodiulisse.eu/wp-content/uploads/2011/04/Bacon_3.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2467,9 +2294,8 @@ module.exports = {
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Andy_Warhol",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://media.mutualart.com/Images/2011_06/09/10/105518974/4aff3fea-0e07-4ee0-a5d7-25a2e40c635d_570.Jpeg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2488,9 +2314,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Jean-Michel_Basquiat",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://uploads3.wikiart.org/images/jean-michel-basquiat.jpg!Portrait.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2508,10 +2333,8 @@ module.exports = {
           painter: true,
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Roy_Lichtenstein",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2530,9 +2353,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Allan_Kaprow",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://upload.wikimedia.org/wikipedia/commons/6/6c/Allan_Kaprow.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2550,10 +2372,8 @@ module.exports = {
           painter: true,
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Karel_Appel",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2572,9 +2392,8 @@ module.exports = {
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Nam_June_Paik",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://m.theartstory.org/images20/new_design/bio/bio_paik_nam_june.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2593,9 +2412,8 @@ module.exports = {
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Donald_Judd",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://uploads6.wikiart.org/images/donald-judd(1).jpg!Portrait.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2614,9 +2432,8 @@ module.exports = {
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Louise_Bourgeois",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://1.bp.blogspot.com/-J61qvCCG0vY/XSqU5tDGfcI/AAAAAAACHss/WaWQRhhz8zw9eRTZH80vEo93oEPT6gkQgCLcBGAs/s1600/Louise%2BBourgeois2.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2635,9 +2452,8 @@ module.exports = {
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Cy_Twombly",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://i.guim.co.uk/img/static/Guardian/culture/gallery/2008/jun/03/twombly/twombly-2825.jpg?width=700&quality=85&auto=format&fit=max&s=82972a53253b810eb939cf4bb011ef9e",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2655,10 +2471,8 @@ module.exports = {
           painter: false,
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Arnaldo_Pomodoro",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2676,10 +2490,8 @@ module.exports = {
           painter: false,
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Claes_Oldenburg",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2698,10 +2510,8 @@ module.exports = {
           painter: true,
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Gerhard_Richter",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2720,9 +2530,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Yoko_Ono",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://www.cambridgenetwork.co.uk/sites/default/files/Yoko%20Ono.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2740,10 +2549,8 @@ module.exports = {
           painter: false,
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Richard_Serra",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2760,11 +2567,10 @@ module.exports = {
           burialSite: null,
           painter: false,
           sculptor: false,
-          wikiUrl: "",
+          wikiUrl: "https://en.wikipedia.org/wiki/Barbara_Kruger",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://www.theartstory.org/images20/photo/kruger_barbara_2.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2782,10 +2588,8 @@ module.exports = {
           painter: true,
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Anselm_Kiefer",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2802,11 +2606,11 @@ module.exports = {
           burialSite: null,
           painter: false,
           sculptor: false,
-          wikiUrl: "",
+          wikiUrl:
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Karel_Appel_%281982%29.jpg/360px-Karel_Appel_%281982%29.jpg",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://uploads4.wikiart.org/00215/images//marina-abramovi-the-artist-is-present-viennale-2012-cropped.jpg!Portrait.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2825,9 +2629,8 @@ module.exports = {
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Bill_Viola",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://res.cloudinary.com/opera-national-de-paris/image/upload/c_crop%2Ch_2500%2Cw_3746%2Cx_0%2Cy_0/c_fit%2Ch_435%2Cw_770/f_auto/v1/user_photos/uao2aknxb45xtdqtwvvs",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2846,9 +2649,8 @@ module.exports = {
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Jeff_Koons",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://news.artnet.com/app/news-upload/2019/02/4448-0024-683x1024.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2867,9 +2669,8 @@ module.exports = {
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Ai_Weiwei",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://media.timeout.com/images/105183585/630/472/image.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2887,10 +2688,8 @@ module.exports = {
           painter: false,
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Maurizio_Cattelan",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2908,10 +2707,8 @@ module.exports = {
           painter: false,
           sculptor: false,
           wikiUrl: "https://en.wikipedia.org/wiki/Tracey_Emin",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2929,10 +2726,8 @@ module.exports = {
           painter: true,
           sculptor: true,
           wikiUrl: "https://en.wikipedia.org/wiki/Damien_Hirst",
-          imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          imageUrl: "https://contemporary.co.il/art/damien-hirst.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -2949,11 +2744,10 @@ module.exports = {
           burialSite: null,
           painter: true,
           sculptor: true,
-          wikiUrl: "",
+          wikiUrl: "https://en.wikipedia.org/wiki/Banksy",
           imageUrl:
-            "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-          bio:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "https://www.martinimanna.com/wp-content/uploads/2019/03/45087774_2156020357947031_2754511158563045376_n.jpg",
+          bio: "",
           createdAt: new Date(),
           updatedAt: new Date(),
         },

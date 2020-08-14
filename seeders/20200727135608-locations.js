@@ -82,7 +82,7 @@ module.exports = {
           city: "New York, NY",
           country: "United States",
           imageUrl:
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Madrid-1758045.jpg/640px-Madrid-1758045.jpg",
+            "https://static.dezeen.com/uploads/2016/04/moma-expansion-diller-scofidio-renfro-new-york-usa_dezeen_1568_0.jpg",
           description:
             "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
           website: "",
@@ -105,8 +105,8 @@ module.exports = {
         },
         {
           name: "Gemäldegalerie am Kulturforum",
-          longitude: 13.364748,
           latitude: 52.508513,
+          longitude: 13.364748,
           city: "Berlin",
           country: "Germany",
           imageUrl:
@@ -120,8 +120,8 @@ module.exports = {
         },
         {
           name: "National Gallery of Art",
-          longitude: -77.019883,
           latitude: 38.891294,
+          longitude: -77.019883,
           city: "Washington D.C.",
           country: "United States",
           imageUrl:
@@ -134,8 +134,8 @@ module.exports = {
         },
         {
           name: "Musée du Louvre",
-          longitude: 2.338027,
           latitude: 48.861147,
+          longitude: 2.338027,
           city: "Paris",
           country: "France",
           imageUrl:
@@ -148,8 +148,8 @@ module.exports = {
         },
         {
           name: "Kunsthistorisches Museum",
-          longitude: 16.361781,
           latitude: 48.203739,
+          longitude: 16.361781,
           city: "Vienna",
           country: "Austria",
           imageUrl:
@@ -157,6 +157,20 @@ module.exports = {
           description:
             "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
           website: "https://www.khm.at/en/",
+          createdAt: new Date(),
+          updatedAt: new Date(),
+        },
+        {
+          name: "Musée d'Orsay",
+          latitude: 48.863682,
+          longitude: 2.31653,
+          city: "Paris",
+          country: "France",
+          imageUrl:
+            "https://media.timeout.com/images/105581784/630/472/image.jpg",
+          description:
+            "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+          website: "https://www.musee-orsay.fr/en/",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
