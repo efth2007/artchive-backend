@@ -1,7 +1,11 @@
 {
   "development": {
-    "url": "postgres://mgwlbqhk:JsxRGzQEYTKBYV7Kciwua3HTe_7G2s7M@ruby.db.elephantsql.com:5432/mgwlbqhk",
+    "url": "postgres://kmrxfxpanpnafc:ddb9fa62d2a2cbbeb820bf1aba004a6337a8165da972fab031ed8e2627b515bb@ec2-54-246-85-151.eu-west-1.compute.amazonaws.com:5432/de446vn9teigqo",
     "dialect": "postgres",
+    "ssl": true,
+    "dialectOptions": {
+      "ssl": { "require": true, "rejectUnauthorized": false }
+    },
     "operatorsAliases": "0"
   },
   "test": {
